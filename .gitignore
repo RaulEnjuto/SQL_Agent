@@ -1,0 +1,7 @@
+# .gitignore
+venv/
+*.sqlite
+.env
+__pycache__/
+*.csv
+*.db
