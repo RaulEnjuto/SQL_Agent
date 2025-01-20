@@ -1,7 +1,6 @@
 import streamlit as st
 import os
 import pandas as pd
-import sqlite3
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
